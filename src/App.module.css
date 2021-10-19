@@ -1,0 +1,17 @@
+.App {
+  height: 600px;
+  padding: 50px;
+  text-align: center;
+  display: block;
+  background-color: rgb(140, 193, 228);
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.second-title {
+  font-size: 23px;
+  margin-bottom: 20px;
+}
